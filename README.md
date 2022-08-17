@@ -157,17 +157,17 @@ And of course NES looks best with my CyberLab__Composite-Pure__ADV preset!
 
 Here's some excellent Sega Genesis de-dithering being performed by my latest:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/LvJSv5O"><a href="//imgur.com/LvJSv5O">Blargg_NTSC_Genesis_Composite_CyberLab_Special_Edition.filt + CyberLab__Composite-Pure__Soqueroeu-TV_Special_Edition-Genesis__STD.slangp</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+**Blargg_NTSC_Genesis_Composite_CyberLab_Special_Edition.filt + CyberLab__Composite-Pure__Soqueroeu-TV_Special_Edition-Genesis__STD.slangp** 
 
-[img]https://i.imgur.com/qJRefNq.jpg[/img]
+![img](https://i.imgur.com/qJRefNq.jpg)
 
-[img]https://i.imgur.com/daKpdVA.jpg[/img]
+![img](https://i.imgur.com/daKpdVA.jpg)
 
-[img]https://i.imgur.com/gss9Gvb.jpg[/img]
+![img](https://i.imgur.com/gss9Gvb.jpg)
 
-[img]https://i.imgur.com/JcRxzhn.jpg[/img]
+![img](https://i.imgur.com/JcRxzhn.jpg)
 
-[img]https://i.imgur.com/8jBYpLJ.jpg[/img]
+![img](https://i.imgur.com/8jBYpLJ.jpg)
 
 
 Leave your GPU to do the heavy Mega Bezel work, while offloading some stuff and applying some finesse to the final output using the oft untapped power of your CPU!
@@ -180,15 +180,15 @@ To load them you need to go to:
 
 Settings ----->
 
-![Screenshot_20220223-010340_RetroArch|690x310](upload://sPSifnry9368jPy6NbHx2xZPiY2.jpeg) 
+![Screenshot_20220223-010340_RetroArch|690x310](https://forums.libretro.com/uploads/default/optimized/3X/c/a/ca1a10cb38e605ca1b9c01f3aa13239c52eba8ea_2_1380x620.jpeg)
 
 Video ----->
 
-![Screenshot_20220223-010400_RetroArch|690x310](upload://5gInZrgRKdruKdgFR7Wsev5MzJk.jpeg) 
+![Screenshot_20220223-010400_RetroArch|690x310](https://forums.libretro.com/uploads/default/optimized/3X/2/4/24ee9995b34b10e9f02a80b5912e69c0a03354f6_2_1380x620.jpeg) 
 
 Filters ---->
 
-![Screenshot_20220223-010431_RetroArch|690x310](upload://2WELm79P2KuLo2dVzvrNXzueXvG.png)
+![Screenshot_20220223-010431_RetroArch|690x310](https://forums.libretro.com/uploads/default/optimized/3X/1/4/14a5cb8d0ed671c80a3b96cb1002b681a189f7e8_2_1380x620.png)
 
 After loading your video filter, you can save your settings as a Core Override in the Quick Menu so it will automatically load that video filter everytime you use that core.
 
