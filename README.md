@@ -2,13 +2,13 @@
 
 ![CyberLab Mega Bezel Death To Pixels Preset Pack Title|690x384](https://forums.libretro.com/uploads/default/optimized/3X/b/d/bdd982e54f4a7f5fc508df16a7290047902f059b_2_1380x768.jpeg) 
 
-![Screenshot_20220408-113722_Chrome|690x292](upload://p48NiCRZjhJXFo9OBzBs3Qi4WBH.jpeg) 
+![Screenshot_20220408-113722_Chrome|690x292]([upload://p48NiCRZjhJXFo9OBzBs3Qi4WBH.jpeg](https://forums.libretro.com/uploads/default/optimized/3X/a/f/afae351e7c3024d0574973d3babf366fd1540c49_2_1380x584.jpeg)) 
 
-![Screenshot_20220408-114931_Chrome|690x248](upload://ayKxBx33WLPozYSWnqdesZRuhdz.jpeg) 
+![Screenshot_20220408-114931_Chrome|690x248]([upload://ayKxBx33WLPozYSWnqdesZRuhdz.jpeg](https://forums.libretro.com/uploads/default/optimized/3X/4/a/4a035d685ec7ec7dff9b01ab17f3a95570fd184d_2_1380x496.jpeg)) 
 
-![Screenshot_20220408-114949_Chrome|690x247](upload://wv5jRazn6vvIH75Yhj34wJr5Hqt.jpeg) 
+![Screenshot_20220408-114949_Chrome|690x247]([upload://wv5jRazn6vvIH75Yhj34wJr5Hqt.jpeg](https://forums.libretro.com/uploads/default/optimized/3X/e/3/e3c9232066dd0f93ab1b6d5ac75eb5181880d9fd_2_1380x494.jpeg)) 
 
-![Screenshot_20220408-115001_Chrome|690x325](upload://e7yk8U27pwsF9kJeXRzkakgM4Rq.jpeg) 
+![Screenshot_20220408-115001_Chrome|690x325]([upload://e7yk8U27pwsF9kJeXRzkakgM4Rq.jpeg](https://forums.libretro.com/uploads/default/optimized/3X/6/2/62f9064da7bafef1cf861be7ae999becce4e4380_2_1380x650.jpeg)) 
 
 
 This is a moment some have been waiting for. By popular request, I'm moving my CyberLab Mega Bezel Death To Pixels Shader Preset Pack to it's new home in it's own thread! In commemoration of this significant milestone, I've included 2 updated versions of my venerable CyberLab Mega Bezel Death To Pixels (Composite - Sharp) and (Arcade - Sharp) presets! 
@@ -29,7 +29,7 @@ So without further delay, I present to you:
 
 Click the link below to download
 
-[CyberLab Mega Bezel Death To Pixels Shader Preset Pack 08-08-22.zip](https://mega.nz/file/UEJVnIoS#3NgxQ70NkW2YXkPFmoYhyx4QrRKharvExYOEt1LYXa0)
+[CyberLab Mega Bezel Death To Pixels Shader Preset Pack 16-08-22.zip](https://mega.nz/file/UEJVnIoS#3NgxQ70NkW2YXkPFmoYhyx4QrRKharvExYOEt1LYXa0)
 
 **These presets REQUIRE THE LATEST HSM Mega Bezel Reflection Shader in order to work.**
 It can be downloaded at the following location.
@@ -142,7 +142,7 @@ So users, in order to get optimum quality, you need to go into Shader Parameters
 
 This one has got to be my best Composite_Pure_ADV preset to date!
 
-![Ys Book I & II (USA) (Rev 2)-220406-002951|690x388](upload://6hAweMyMej2zDt71tPEiysWztTH.jpeg) 
+![Ys Book I & II (USA) (Rev 2)-220406-002951|690x388]([upload://6hAweMyMej2zDt71tPEiysWztTH.jpeg](https://forums.libretro.com/uploads/default/optimized/3X/2/c/2c0a0a5210b2fd77344e8b924aded2b77a11e679_2_1380x776.jpeg)) 
 
 
 Finally!!! I've completed my latest overhaul!
