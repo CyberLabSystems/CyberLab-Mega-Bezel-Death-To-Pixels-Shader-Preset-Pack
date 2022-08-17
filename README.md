@@ -1,6 +1,6 @@
 # CyberLab-Mega-Bezel-Death-To-Pixels-Shader-Preset-Pack
 
-![CyberLab Mega Bezel Death To Pixels Preset Pack Title|690x384](upload://r5ufYN9TPhowUVsfZnCUITieVJ1.jpeg) 
+![CyberLab Mega Bezel Death To Pixels Preset Pack Title|690x384](https://forums.libretro.com/uploads/default/optimized/3X/b/d/bdd982e54f4a7f5fc508df16a7290047902f059b_2_1380x768.jpeg) 
 
 ![Screenshot_20220408-113722_Chrome|690x292](upload://p48NiCRZjhJXFo9OBzBs3Qi4WBH.jpeg) 
 
