@@ -29,7 +29,7 @@ So without further delay, I present to you:
 
 Click the link below to download
 
-[CyberLab Mega Bezel Death To Pixels Shader Preset Pack 16-08-22.zip](https://mega.nz/file/UEJVnIoS#3NgxQ70NkW2YXkPFmoYhyx4QrRKharvExYOEt1LYXa0)
+[CyberLab Mega Bezel Death To Pixels Shader Preset Pack](https://github.com/CyberLabSystems/CyberLab-Mega-Bezel-Death-To-Pixels-Shader-Preset-Pack/releases)
 
 **These presets REQUIRE THE LATEST HSM Mega Bezel Reflection Shader in order to work.**
 It can be downloaded at the following location.
