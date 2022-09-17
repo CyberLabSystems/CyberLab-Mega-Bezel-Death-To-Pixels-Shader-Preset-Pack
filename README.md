@@ -44,7 +44,7 @@ You would also need to download and install my custom Blargg Filter Presets:
 
 Click the link below to download
 
-[CyberLab Custom Blargg NTSC Video Filter Presets 06-08-22.zip](https://mega.nz/file/1IAyyIhb#GKKnxVbCqkSXmo-XIoF-041-IHjNvDF-JCG-f0mL2X8)
+[CyberLab Custom Blargg NTSC Video Filter Presets](https://github.com/CyberLabSystems/CyberLab-Custom-Blargg-NTSC-Video-Filter-Presets/releases)
 
 **Installation:**
 
