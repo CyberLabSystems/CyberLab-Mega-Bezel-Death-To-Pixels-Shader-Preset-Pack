@@ -48,7 +48,7 @@ HSM_INT_SCALE_MODE = "1.000000"
 HSM_CURVATURE_MODE = "0.000000"
 shadowMask = "6.000000"
 maskstr = "1.000000"
-masksize = "0.000000"
+masksize = "1.000000"
 mask_layout = "1.000000"
 
 GDV_DECONVERGENCE_ON = "0.000000"

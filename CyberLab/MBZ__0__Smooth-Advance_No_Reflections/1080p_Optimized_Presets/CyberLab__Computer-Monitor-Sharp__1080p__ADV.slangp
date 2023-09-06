@@ -3,7 +3,7 @@
 
 signalResolution = "448.000000"
 
-masksize = "0.000000"
+masksize = "1.000000"
 maskDark = "0.150000"
 
 mask_layout = "1.000000"
