@@ -1,0 +1,9 @@
+#reference "../CyberLab_Shadow_Mask_IV_OLED.slangp"
+
+GAMMA_INPUT = "2.150000"
+gamma_out = "2.450000"
+post_br = "1.799999"
+SHARPSMOOTHER_ON = "0.000000"
+HSM_SCALEFX_ON = "0.000000"
+gamma_c = "1.000000"
+scans = "1.600000"

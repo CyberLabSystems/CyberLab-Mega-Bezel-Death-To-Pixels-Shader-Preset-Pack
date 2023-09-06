@@ -60,7 +60,7 @@ deconrb = "0.000000"
 deconrry = "-0.250000"
 deconrgy = "-1.200000"
 deconrby = "0.000000"
-decons = "4.000000"
+decons = "0.400000"
 deconsmooth = "0.000000"
 
 scanline1 = "9.000000"

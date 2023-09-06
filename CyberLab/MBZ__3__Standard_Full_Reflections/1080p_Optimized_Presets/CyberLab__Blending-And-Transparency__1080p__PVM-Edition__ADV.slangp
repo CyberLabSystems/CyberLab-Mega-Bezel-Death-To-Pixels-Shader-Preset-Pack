@@ -17,6 +17,6 @@ deconrb = "0.000000"
 deconrry = "-0.250000"
 deconrgy = "-0.500000"
 deconrby = "0.000000"
-decons = "4.000000"
+decons = "0.400000"
 
 mask_layout = "1.000000"

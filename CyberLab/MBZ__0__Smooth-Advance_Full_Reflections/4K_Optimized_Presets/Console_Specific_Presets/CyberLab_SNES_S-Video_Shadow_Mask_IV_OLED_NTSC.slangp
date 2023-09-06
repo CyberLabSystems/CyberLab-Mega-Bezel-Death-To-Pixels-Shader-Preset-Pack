@@ -7,7 +7,7 @@ post_br = "1.500000"
 HSM_INT_SCALE_MODE = "1.000000"
 HSM_INT_SCALE_MULTIPLE_OFFSET = "1.000000"
 ntsc_sat = "1.000000"
-ntsc_scale = "2.450001"
+ntsc_scale = "2.500000"
 cust_fringing = "0.200000"
 cust_artifacting = "0.800000"
 blendMode = "0.000000"
@@ -18,7 +18,7 @@ g_sat = "0.040000"
 GDV_NOISE_ON = "1.000000"
 
 
-HSHARPNESS = "1.200000"
+HSHARPNESS = "1.150000"
 S_SHARP = "1.300000"
 
 

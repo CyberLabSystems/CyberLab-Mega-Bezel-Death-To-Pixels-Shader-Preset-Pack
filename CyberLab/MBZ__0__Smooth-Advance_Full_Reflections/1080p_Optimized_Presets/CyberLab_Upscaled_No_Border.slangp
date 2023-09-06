@@ -1,0 +1,22 @@
+#reference "../../../../shaders_slang/bezel/Mega_Bezel/Presets/Variations/Screen-Only/Max-Int-Scale/_0__SMOOTH__2__Default.slangp"
+
+
+HSM_INT_SCALE_MULTIPLE_OFFSET = "-1.000000"
+HSM_CORE_RES_SAMPLING_MULT_SCANLINE_DIR = "1600.000000"
+HSM_DOWNSAMPLE_BLUR_OPPOSITE_DIR = "0.000000"
+gsl = "-1.000000"
+h_sharp = "15.000000"
+s_sharp = "1.300000"
+shadowMask = "4.000000"
+GDV_DECONVERGENCE_ON = "0.000000"
+
+
+
+HSM_DEDITHER_MODE = "0.000000"
+wp_temperature = "6500.000000"
+g_sat = "0.190000"
+glow = "0.010000"
+bloom = "0.150000"
+scangamma = "1.300001"
+
+SGPT_BLEND_OPTION = "0.000000"
