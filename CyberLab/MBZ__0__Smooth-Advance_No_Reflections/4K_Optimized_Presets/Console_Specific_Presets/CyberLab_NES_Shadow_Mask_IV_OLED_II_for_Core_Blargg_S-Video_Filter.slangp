@@ -1,4 +1,4 @@
-#reference "../CyberLab_NES_Shadow_Mask_IV_OLED_II.slangp"
+#reference "CyberLab_NES_Shadow_Mask_IV_OLED_II.slangp"
 
 GAMMA_INPUT = "2.150000"
 gamma_out = "2.450000"

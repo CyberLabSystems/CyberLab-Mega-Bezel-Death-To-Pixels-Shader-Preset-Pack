@@ -1,8 +1,8 @@
 #reference "../../../MBZ__1__Advance_Full_Reflections/1080p_Optimized_Presets/Console_Specific_Presets/CyberLab_NES_S-Video_Slot_Mask_IV_OLED_NTSC_II.slangp"
 
-BackgroundImage = "../../../CyberLab_Graphics/CyberLab_FRS_Mini_TV_Background_BW.png"
+BackgroundImage = "../../../Resources/CyberLab_Graphics/CyberLab_FRS_Mini_TV_Background_BW.png"
 
-DeviceImage = "../../../CyberLab_Graphics/CyberLab_Full_Range_Stereo_Mega_TV.png"
+DeviceImage = "../../../Resources/CyberLab_Graphics/CyberLab_Full_Range_Stereo_Mega_TV.png"
 
 HSM_INT_SCALE_MODE = "0.000000"
 HSM_CURVATURE_MODE = "1.000000"

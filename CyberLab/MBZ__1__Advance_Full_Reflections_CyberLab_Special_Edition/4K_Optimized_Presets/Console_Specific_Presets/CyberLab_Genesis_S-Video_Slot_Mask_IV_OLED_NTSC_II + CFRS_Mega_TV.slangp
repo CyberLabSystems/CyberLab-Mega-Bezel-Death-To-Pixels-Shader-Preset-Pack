@@ -1,6 +1,6 @@
 #reference "../../../MBZ__1__Advance_Full_Reflections/1080p_Optimized_Presets/Console_Specific_Presets/CyberLab_Genesis_S-Video_Slot_Mask_IV_OLED_NTSC_II.slangp"
 
-BackgroundImage = "../../../CyberLab_Graphics/CyberLab_Full_Range_Stereo_Mega_TV.png"
+BackgroundImage = "../../../Resources/CyberLab_Graphics/CyberLab_Full_Range_Stereo_Mega_TV.png"
 
 HSM_AMBIENT_LIGHTING_OPACITY = "98.000000"
 HSM_AMBIENT1_OPACITY = "68.000000"
