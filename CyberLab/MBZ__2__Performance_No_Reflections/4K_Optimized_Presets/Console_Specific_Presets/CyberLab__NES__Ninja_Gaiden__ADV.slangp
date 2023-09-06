@@ -1,0 +1,4 @@
+#reference "../CyberLab__Composite-Pure__ADV.slangp"
+
+g_crtgamut = "2.000000"
+g_sat = "0.000000"

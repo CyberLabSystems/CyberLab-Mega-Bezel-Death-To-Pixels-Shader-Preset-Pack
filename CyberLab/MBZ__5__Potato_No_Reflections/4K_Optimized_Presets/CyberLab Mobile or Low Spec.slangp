@@ -1,0 +1,25 @@
+#reference "CyberLab Mobile or Low Spec for Blargg.slangp"
+
+HSM_GLOBAL_GRAPHICS_BRIGHTNESS = "90.000000"
+HSM_STATIC_LAYERS_GAMMA = "0.970000"
+
+
+post_br = "1.599999"
+g_sat = "0.070000"
+
+saturation = "1.100000"
+
+
+h_sharp = "3.499997"
+
+
+brightboost = "1.150000"
+
+scanline = "12.000000"
+beam_min = "1.700000"
+beam_max = "2.100000"
+
+shadowMask = "8.000000"
+masksize = "0.000000"
+maskDark = "0.000000"
+maskLight = "1.000000"

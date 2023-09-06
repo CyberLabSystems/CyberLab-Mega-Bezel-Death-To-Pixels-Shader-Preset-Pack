@@ -1,0 +1,8 @@
+#reference "CyberLab_NES_for_Core_Blargg_S-Video_Filter.slangp"
+
+g_sat = "0.000000"
+
+halation = "0.400000"
+addnoised = "0.900000"
+noiseresd = "2.000000"
+

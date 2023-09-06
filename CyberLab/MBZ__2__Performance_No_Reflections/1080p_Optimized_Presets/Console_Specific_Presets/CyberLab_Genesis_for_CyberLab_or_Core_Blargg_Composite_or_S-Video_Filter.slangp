@@ -1,0 +1,31 @@
+//Blending and Transparency, No Rainbow Effect, No Shimmering Artifacts
+//Quick Menu-->Options-->Video-->Blargg NTSC Filter - OFF
+//Settings-->Video-->Video Filter-->Blargg_NTSC_Genesis_Composite_CyberLab_Special_Edition.filt
+//Quick Menu-->Overrides-->Save Core Override
+//Or
+//Blending and Transparency, Rainbow Effect, Shimmering Artifacts
+//Quick Menu-->Options-->Video-->Blargg NTSC Filter - Composite
+
+#reference "../../4K_Optimized_Presets/CyberLab__Composite-Pure__ADV.slangp"
+
+HSM_CROP_PERCENT_LEFT = "0.500000"
+HSM_CROP_PERCENT_RIGHT = "0.300000"
+HSM_CORE_RES_SAMPLING_MULT_SCANLINE_DIR = "100.000000"
+
+SHARPEN = "0.550000"
+CONTR = "0.090000"
+
+GTU_ON = "1.000000"
+signalResolution = "1024.000000"
+
+h_sharp = "15.000000"
+s_sharp = "1.500000"
+GDV_DECONVERGENCE_ON = "1.000000"
+
+HSM_SCALEFX_ON = "1.000000"
+post_br = "3.699978"
+
+GAMMA_INPUT = "2.150000"
+gamma_out = "2.450000"
+
+mask_layout = "1.000000"

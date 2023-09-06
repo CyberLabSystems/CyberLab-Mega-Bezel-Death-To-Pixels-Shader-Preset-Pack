@@ -1,0 +1,63 @@
+#reference "../../../../Mega_Bezel_Packs/Soqueroeu-TV-Backgrounds_V2.0/presets/TV-Console/Sony_Playstation(PSX)-[FLAT].slangp"
+
+scangamma = "6.000000"
+
+g_hue_degrees = "-7.000000"
+wp_temperature = "6500.000000"
+
+
+
+GDV_DECONVERGENCE_ON = "0.000000"
+
+
+
+g_sat = "0.020000"
+
+
+
+post_br = "1.310000"
+
+h_sharp = "5.200000"
+
+GAMMA_INPUT = "2.100000"
+gamma_out = "2.500000"
+
+
+bloom = "0.150000"
+halation = "0.000000"
+
+
+
+scan_falloff = "0.250000"
+
+
+g_crtgamut = "1.000000"
+
+
+scans = "0.000000"
+GDV_NOISE_ON = "1.000000"
+
+glow = "0.000000"
+
+masksize = "2.000000"
+
+
+
+gsl = "2.000000"
+scanline1 = "9.000000"
+scanline2 = "9.000000"
+beam_min = "1.350000"
+beam_max = "1.300000"
+
+shadowMask = "6.000000"
+maskstr = "1.000000"
+
+
+addnoised = "0.180000"
+noiseresd = "1.000000"
+
+HSM_ASPECT_RATIO_ORIENTATION = "1.000000"
+HSM_ASPECT_RATIO_MODE = "2.000000"
+
+HSM_INT_SCALE_BORDER_MIN_HEIGHT = "11.500000"
+HSM_NON_INTEGER_SCALE = "66.400002"

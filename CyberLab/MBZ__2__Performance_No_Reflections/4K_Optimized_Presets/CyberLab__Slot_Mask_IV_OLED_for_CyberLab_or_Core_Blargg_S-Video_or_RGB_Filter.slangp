@@ -1,0 +1,7 @@
+#reference "CyberLab__Slot_Mask_III_for_CyberLab_or_Core_Blargg_S-Video_or_RGB_Filter.slangp"
+shadowMask = "12.000000"
+masksize = "1.000000"
+mask_layout = "1.000000"
+slotwidth = "7.000000"
+double_slot = "2.000000"
+slotms = "1.000000"
