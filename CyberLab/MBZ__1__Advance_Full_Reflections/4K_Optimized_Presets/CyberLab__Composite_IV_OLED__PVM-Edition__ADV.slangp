@@ -1,0 +1,10 @@
+#reference "CyberLab__RGB-Sharp__PVM-Edition__ADV.slangp"
+
+GTU_ON = "1.000000"
+compositeConnection = "1.000000"
+signalResolution = "464.000000"
+signalResolutionI = "83.000000"
+signalResolutionQ = "151.000000"
+shadowMask = "12.000000"
+masksize = "1.000000"
+mask_layout = "1.000000"

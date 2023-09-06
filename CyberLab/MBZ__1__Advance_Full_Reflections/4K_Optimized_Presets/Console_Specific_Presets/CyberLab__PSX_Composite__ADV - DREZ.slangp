@@ -1,0 +1,6 @@
+#reference "CyberLab__PSX__ADV - DREZ.slangp"
+
+signalResolution = "464.000000"
+signalResolutionI = "83.000000"
+signalResolutionQ = "151.000000"
+g_sat = "0.070000"

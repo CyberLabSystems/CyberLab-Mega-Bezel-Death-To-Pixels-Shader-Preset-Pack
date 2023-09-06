@@ -1,0 +1,23 @@
+#reference "../CyberLab__Ultimate_Virtual_Slot_Mask_CRT-1P2RTA__ADV.slangp"
+
+post_br = "2.199999"
+g_sat = "0.000000"
+gamma_c = "1.460000"
+h_sharp = "12.000012"
+
+GAMMA_INPUT = "2.400000"
+gamma_out = "2.400000"
+gsl = "0.000000"
+
+SHARPEN = "0.700000"
+s_sharp = "1.200000"
+
+scangamma = "0.960000"
+double_slot = "1.000000"
+HSM_SCALEFX_ON = "1.000000"
+
+
+HSM_INT_SCALE_MULTIPLE_OFFSET = "1.000000"
+HSM_NON_INTEGER_SCALE = "90.999985"
+HSM_BZL_USE_INDEPENDENT_SCALE = "1.000000"
+HSM_BZL_INDEPENDENT_SCALE = "90.500008"

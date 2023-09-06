@@ -1,0 +1,9 @@
+#reference "CyberLab_NES_Slot_Mask_IV_OLED_Ninja_Gaiden_for_Core_Blargg_S-Video_Filter.slangp"
+
+HSM_INT_SCALE_MODE = "2.000000"
+HSM_CROP_PERCENT_LEFT = "0.000000"
+HSM_CROP_PERCENT_RIGHT = "0.000000"
+signalResolution = "464.000000"
+signalResolutionI = "83.000000"
+signalResolutionQ = "151.000000"
+g_sat = "0.050000"

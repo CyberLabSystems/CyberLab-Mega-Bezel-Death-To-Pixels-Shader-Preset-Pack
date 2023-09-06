@@ -1,0 +1,5 @@
+#reference "../CyberLab__Ultimate_Virtual_Slot_Mask_IV_OLED_CRT-NP2RTA__ADV.slangp"
+
+signalResolution = "464.000000"
+signalResolutionI = "83.000000"
+signalResolutionQ = "151.000000"

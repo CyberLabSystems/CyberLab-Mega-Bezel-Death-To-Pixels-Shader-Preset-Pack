@@ -1,0 +1,9 @@
+//Quick Menu-->Options-->Video-->Blargg NTSC Filter - S-Video
+
+#reference "CyberLab_NES_for_Core_Blargg_S-Video_Filter.slangp"
+
+HSM_GLOBAL_GRAPHICS_BRIGHTNESS = "90.000000"
+HSM_STATIC_LAYERS_GAMMA = "0.970000"
+shadowMask = "12.000000"
+masksize = "1.000000"
+mask_layout = "1.000000"
