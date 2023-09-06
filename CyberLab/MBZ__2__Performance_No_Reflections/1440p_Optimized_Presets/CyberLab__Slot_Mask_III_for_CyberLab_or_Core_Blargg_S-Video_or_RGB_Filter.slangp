@@ -1,0 +1,19 @@
+#reference "CyberLab__Slot_Mask_II_for_CyberLab_or_Core_Blargg_Composite_or_S-Video_Filter.slangp"
+
+
+
+post_br = "1.899999"
+SHARPEN = "1.200000"
+g_sat = "0.050000"
+gsl = "-1.000000"
+GDV_NOISE_ON = "1.000000"
+
+
+GAMMA_INPUT = "2.100000"
+gamma_out = "2.450000"
+
+gamma_c = "1.440001"
+
+
+HSM_GLOBAL_GRAPHICS_BRIGHTNESS = "90.000000"
+HSM_STATIC_LAYERS_GAMMA = "0.970000"

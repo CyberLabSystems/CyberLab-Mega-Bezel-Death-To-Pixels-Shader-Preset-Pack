@@ -1,0 +1,113 @@
+#reference "../../../../Mega_Bezel_Packs/Soqueroeu-TV-Backgrounds_V2.0/presets/TV-Console/Sony_Playstation(PSX)-[FLAT].slangp"
+
+scangamma = "6.000000"
+
+
+
+
+
+scan_falloff = "0.250000"
+
+
+
+scans = "0.000000"
+
+
+HSM_ASPECT_RATIO_ORIENTATION = "1.000000"
+HSM_ASPECT_RATIO_MODE = "2.000000"
+
+HSM_INT_SCALE_MAX_HEIGHT = "11.500000"
+HSM_NON_INTEGER_SCALE = "66.400002"
+
+
+
+
+HSM_INTRO_WHEN_TO_SHOW = "1.000000"
+
+glow = "0.020000"
+SIGMA_H = "0.200000"
+SIGMA_V = "0.200000"
+SIGMA_HB = "0.250000"
+SIGMA_VB = "0.250000"
+gsl = "2.000000"
+vertmask = "-1.000000"
+
+
+deconsmooth = "0.000000"
+
+g_crtgamut = "0.000000"
+halation = "0.150000"
+gamma_c = "1.640000"
+g_hue_degrees = "0.000000"
+
+
+
+
+
+g_cntrst = "0.500000"
+
+GDV_AFTERGLOW_THRESHOLD = "7.5"
+AS = "0.030000"
+
+
+
+
+SIZEH = "7.000000"
+
+
+h_sharp = "1.000003"
+shadowMask = "6.000000"
+
+masksize = "0.000000"
+
+maskDark = "1.000000"
+
+GDV_DECONVERGENCE_ON = "1.000000"
+deconrr = "1.000000"
+deconrb = "-1.000000"
+deconrry = "1.000000"
+deconrby = "-1.000000"
+
+
+
+HSM_INTERLACE_TRIGGER_RES = "600.000000"
+
+HSM_FAKE_SCANLINE_RES = "240.000000"
+
+
+MDAPT_MODE = "2.000000"
+
+
+
+
+HSM_SCALEFX_ON = "1.000000"
+
+
+HSM_CURVATURE_MODE = "0.000000"
+
+HSM_FAKE_SCANLINE_OPACITY = "0.000000"
+HSM_FAKE_SCANLINE_ROLL = "0.000000"
+
+HSM_CORE_RES_SAMPLING_MULT_SCANLINE_DIR = "1600.000000"
+HSM_CORE_RES_SAMPLING_MULT_OPPOSITE_DIR = "100.000000"
+HSM_DOWNSAMPLE_BLUR_SCANLINE_DIR = "0.000000"
+
+HSM_DOWNSAMPLE_BLUR_OPPOSITE_DIR = "33.000000"
+
+
+spike = "2.000000"
+
+
+
+
+addnoised = "0.000000"
+
+
+
+post_br = "1.29000000"
+gsl = "0.000000"
+scanline1 = "9.000000"
+scanline2 = "9.000000"
+beam_min = "1.400000"
+beam_max = "1.400000"
+maskstr = "0.500000"

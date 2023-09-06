@@ -1,6 +1,6 @@
 Installation:
 
-To install these presets either copy the "Mega_Bezel_Community" folder into the "…\Retroarch\Shaders" folder or copy the "Shaders" folder into your "…\Retroarch\" folder.
+To install these presets copy the "CyberLab" folder into the "…\Retroarch\Shaders\Mega_Bezel_Packs" folder.
 
 
 Usage:

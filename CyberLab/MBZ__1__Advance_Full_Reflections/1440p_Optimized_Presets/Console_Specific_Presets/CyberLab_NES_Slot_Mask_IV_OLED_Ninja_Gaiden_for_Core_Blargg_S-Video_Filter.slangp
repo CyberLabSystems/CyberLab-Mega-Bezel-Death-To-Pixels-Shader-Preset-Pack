@@ -1,0 +1,12 @@
+#reference "../CyberLab__Slot_Mask_II_for_CyberLab_or_Core_Blargg_Composite_or_S-Video_Filter.slangp"
+
+g_crtgamut = "2.000000"
+g_sat = "0.010000"
+
+
+shadowMask = "10.000000"
+masksize = "1.000000"
+mask_layout = "0.000000"
+slotwidth = "4.000000"
+double_slot = "2.000000"
+slotms = "1.000000"
