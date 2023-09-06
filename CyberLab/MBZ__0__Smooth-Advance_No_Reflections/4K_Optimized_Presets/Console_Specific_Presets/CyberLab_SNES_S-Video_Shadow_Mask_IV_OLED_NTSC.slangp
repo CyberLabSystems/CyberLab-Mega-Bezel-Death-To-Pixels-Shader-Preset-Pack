@@ -1,0 +1,36 @@
+#reference "CyberLab_SNES_Composite_Shadow_Mask_IV_OLED_NTSC.slangp"
+
+
+GAMMA_INPUT = "2.350000"
+gamma_out = "2.450000"
+post_br = "1.500000"
+HSM_INT_SCALE_MODE = "1.000000"
+HSM_INT_SCALE_MULTIPLE_OFFSET = "1.000000"
+ntsc_sat = "1.000000"
+ntsc_scale = "2.450001"
+cust_fringing = "0.200000"
+cust_artifacting = "0.800000"
+blendMode = "0.000000"
+mask_gamma = "2.400000"
+
+
+g_sat = "0.040000"
+GDV_NOISE_ON = "1.000000"
+
+
+HSHARPNESS = "1.200000"
+S_SHARP = "1.300000"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
