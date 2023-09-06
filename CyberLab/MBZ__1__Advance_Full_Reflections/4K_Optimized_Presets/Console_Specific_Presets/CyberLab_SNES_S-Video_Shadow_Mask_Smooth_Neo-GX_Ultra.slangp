@@ -1,0 +1,9 @@
+#reference "CyberLab_SNES_S-Video_Shadow_Mask_Neo-GX_Ultra.slangp"
+
+HSM_DOWNSAMPLE_BLUR_SCANLINE_DIR = "0.000000"
+SUPERXBR_ON = "1.000000"
+ntsc_scale = "2.049999"
+ntsc_sharp = "-5.500000"
+HSHARPNESS = "1.300000"
+S_SHARP = "1.200000"
+gamma_c = "1.150000"

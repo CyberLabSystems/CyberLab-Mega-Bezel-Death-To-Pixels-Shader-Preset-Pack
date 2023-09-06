@@ -1,4 +1,4 @@
-#reference "Mega_Bezel_Packs/CyberLab/MBZ__3__Standard_Full_Reflections/4K_Optimized_Presets/Console_Specific_Presets/CyberLab_Genesis_Composite_Slot_Mask_IV_OLED_for_CyberLab_Blargg_Video_Filter.slangp"
+#reference "CyberLab_Genesis_Composite_Slot_Mask_IV_OLED_for_CyberLab_Blargg_Video_Filter.slangp"
 SHARPEN = "0.000000"
 h_sharp = "5.200000"
 s_sharp = "0.800000"

@@ -1,0 +1,11 @@
+#reference "CyberLab_Genesis_Composite_Slot_Mask_IV_OLED_for_CyberLab_Blargg_Video_Filter_III.slangp"
+
+GAMMA_INPUT = "2.400000"
+gamma_out = "2.400000"
+g_lum_fix = "1.000000"
+m_glow = "1.000000"
+glow = "-0.040000"
+bloom = "0.000000"
+gamma_c = "1.275000"
+brightboost1 = "1.350000"
+

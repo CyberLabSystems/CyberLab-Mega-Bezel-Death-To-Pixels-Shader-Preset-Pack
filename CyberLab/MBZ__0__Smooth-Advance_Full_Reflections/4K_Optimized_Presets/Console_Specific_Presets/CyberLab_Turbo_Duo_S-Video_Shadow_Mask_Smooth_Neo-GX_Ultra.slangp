@@ -1,0 +1,9 @@
+#reference "CyberLab_Turbo_Duo_Composite_Shadow_Mask_Neo-GX_Ultra.slangp"
+
+SUPERXBR_ON = "1.000000"
+ntsc_scale = "1.839999"
+ntsc_sharp = "-5.500000"
+SIGMA_HB = "0.700000"
+gamma_c = "1.250000"
+slotwidth = "7.000000"
+double_slot = "3.000000"

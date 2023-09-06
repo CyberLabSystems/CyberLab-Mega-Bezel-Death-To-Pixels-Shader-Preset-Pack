@@ -1,0 +1,10 @@
+#reference "CyberLab_Turbo_Duo_Composite_Shadow_Mask_Neo-GX_Ultra.slangp"
+
+HSM_DOWNSAMPLE_BLUR_SCANLINE_DIR = "10.000000"
+g_sat = "0.140000"
+ntsc_scale = "1.379999"
+gamma_c = "0.900000"
+slotwidth = "7.000000"
+double_slot = "3.000000"
+// decons = "0.100000"
+// dcscalemode = "3.000000"

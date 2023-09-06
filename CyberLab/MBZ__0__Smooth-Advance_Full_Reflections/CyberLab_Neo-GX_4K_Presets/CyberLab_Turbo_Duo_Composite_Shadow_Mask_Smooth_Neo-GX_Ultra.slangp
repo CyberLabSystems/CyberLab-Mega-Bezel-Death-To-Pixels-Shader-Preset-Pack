@@ -1,0 +1,4 @@
+#reference "CyberLab_Turbo_Duo_S-Video_Shadow_Mask_Smooth_Neo-GX_Ultra.slangp"
+g_sat = "0.140000"
+ntsc_scale = "0.990000"
+
