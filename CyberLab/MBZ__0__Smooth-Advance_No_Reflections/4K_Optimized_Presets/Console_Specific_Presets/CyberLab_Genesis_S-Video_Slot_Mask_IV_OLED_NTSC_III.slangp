@@ -1,0 +1,4 @@
+#reference "CyberLab_Genesis_Composite_Slot_Mask_IV_OLED_NTSC_II.slangp"
+
+ntsc_scale = "2.500000"
+blendMode = "0.000000"

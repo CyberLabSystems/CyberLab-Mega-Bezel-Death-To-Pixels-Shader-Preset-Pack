@@ -1,0 +1,4 @@
+#reference ":/shaders/Mega_Bezel_Packs/CyberLab/MBZ__1__Advance_Full_Reflections_CyberLab_Special_Edition/4K_Optimized_Presets/Console_Specific_Presets/CyberLab_SNES_Composite_Slot_Mask_IV_OLED_NTSC + CFRS_Mega_TV.slangp"
+cust_artifacting = "1.400000"
+S_SHARP = "1.200000"
+scans = "0.650000"

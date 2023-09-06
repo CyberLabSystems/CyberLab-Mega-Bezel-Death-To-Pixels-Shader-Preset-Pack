@@ -1,0 +1,4 @@
+#reference "CyberLab_SNES_Shadow_Mask_Neo-GX_Bright.slangp"
+
+cust_fringing = "1.100000"
+cust_artifacting = "1.200000"

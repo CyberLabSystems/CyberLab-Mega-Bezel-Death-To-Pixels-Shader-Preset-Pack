@@ -1,0 +1,18 @@
+#reference "CyberLab_SNES_Shadow_Mask_Neo-GX.slangp"
+
+
+shadowMask = "12.000000"
+masksize = "1.000000"
+mshift = "0.000000"
+slotmask = "1.000000"
+slotmask1 = "1.000000"
+slotwidth = "7.000000"
+double_slot = "3.000000"
+smoothmask = "1.000000"
+
+
+
+post_br = "3.769997"
+// HSM_AB_COMPARE_FREEZE_CRT_TUBE = "1.000000"
+brightboost = "0.750000"
+

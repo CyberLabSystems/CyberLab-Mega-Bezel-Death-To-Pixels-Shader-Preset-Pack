@@ -1,0 +1,11 @@
+#reference "CyberLab_NES_Slot_Mask_Neo-GX.slangp"
+
+
+slotmask = "0.000000"
+slotmask1 = "0.000000"
+
+
+
+post_br = "2.899998"
+// HSM_AB_COMPARE_FREEZE_CRT_TUBE = "1.000000"
+gamma_c = "0.850000"

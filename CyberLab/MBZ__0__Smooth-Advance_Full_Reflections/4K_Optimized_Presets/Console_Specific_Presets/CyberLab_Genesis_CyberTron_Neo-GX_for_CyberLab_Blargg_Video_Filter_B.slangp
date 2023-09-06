@@ -1,0 +1,12 @@
+#reference "CyberLab_Genesis_Slot_Mask_Neo-GX_for_CyberLab_Blargg_Video_Filter.slangp"
+
+
+slotmask = "0.000000"
+slotmask1 = "0.000000"
+
+
+
+
+post_br = "2.899998"
+// HSM_AB_COMPARE_FREEZE_CRT_TUBE = "1.000000"
+brightboost = "0.500000"

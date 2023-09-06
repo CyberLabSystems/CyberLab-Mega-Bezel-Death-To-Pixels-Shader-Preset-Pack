@@ -1,0 +1,10 @@
+#reference "CyberLab_SNES_Composite_CyberTron_Fine_Neo-GX.slangp"
+
+ntsc_scale = "1.660000"
+ntsc_sharp = "-5.500000"
+HSHARPNESS = "1.200000"
+S_SHARP = "1.300000"
+
+gamma_c = "1.025000"
+brightboost = "1.400000"
+brightboost1 = "1.350000"

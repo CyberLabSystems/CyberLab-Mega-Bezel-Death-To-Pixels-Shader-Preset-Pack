@@ -1,0 +1,3 @@
+#reference "CyberLab_SNES_Shadow_Mask_Neo-GX.slangp"
+
+gamma_c = "1.025000"

@@ -1,0 +1,13 @@
+#reference "../../../../../shaders/shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__1__ADV__GDV-NTSC.slangp"
+
+
+// Base Preset Overrides
+
+g_lum_fix = "0.000000"
+
+SGPT_BLEND_OPTION = "0.000000"
+
+
+CP = "-1.000000"
+g_space_out = "1.000000"
+

@@ -1,0 +1,16 @@
+#reference "../CyberLab_Arcade_Shadow_Mask_Neo-GX.slangp"
+
+
+SUPERXBR_ON = "0.000000"
+ntsc_fields = "1.000000"
+cust_fringing = "0.400000"
+cust_artifacting = "1.000000"
+
+ntsc_scale = "1.030000"
+
+
+
+
+
+
+

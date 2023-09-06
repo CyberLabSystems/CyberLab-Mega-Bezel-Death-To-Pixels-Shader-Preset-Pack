@@ -1,0 +1,15 @@
+#reference "CyberLab_PSX_Composite_CyberTron_Neo-GX.slangp"
+
+shadowMask = "10.000000"
+
+
+
+HSM_DOWNSAMPLE_BLUR_SCANLINE_DIR = "0.000000"
+HSM_DOWNSAMPLE_BLUR_OPPOSITE_DIR = "0.000000"
+
+
+
+HSHARPNESS = "1.200000"
+S_SHARP = "1.300000"
+
+

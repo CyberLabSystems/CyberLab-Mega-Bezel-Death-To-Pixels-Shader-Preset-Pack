@@ -1,0 +1,6 @@
+#reference "CyberLab_SNES_CyberTron_Neo-GX_A.slangp"
+
+PS1_BOX_BLUR_MODE = "1.000000"
+PS1_BOX_BLUR_BLEND = "50.000000"
+g_sat = "-0.020000"
+gamma_c = "0.950000"

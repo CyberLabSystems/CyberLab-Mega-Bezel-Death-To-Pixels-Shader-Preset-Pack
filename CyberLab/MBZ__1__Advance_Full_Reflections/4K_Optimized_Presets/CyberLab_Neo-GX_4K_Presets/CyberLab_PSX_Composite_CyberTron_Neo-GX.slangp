@@ -1,0 +1,7 @@
+#reference "CyberLab_PSX_CyberTron_Neo-GX.slangp"
+
+g_sat = "0.000000"
+ntsc_phase = "2.000000"
+ntsc_scale = "1.450000"
+cust_fringing = "1.100000"
+cust_artifacting = "1.400000"

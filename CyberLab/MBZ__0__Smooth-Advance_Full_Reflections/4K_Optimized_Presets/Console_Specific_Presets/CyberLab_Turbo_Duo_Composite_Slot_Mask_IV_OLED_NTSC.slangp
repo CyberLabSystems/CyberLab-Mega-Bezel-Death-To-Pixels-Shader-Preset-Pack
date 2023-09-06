@@ -1,4 +1,4 @@
-#reference "../../../../../../shaders/shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__0__SMOOTH-ADV__GDV-NTSC.slangp"
+#reference "../../../Resources/CyberLab_Base_Presets/CBL_MBZ__0__SMOOTH-ADV__GDV-NTSC.slangp"
 
 HSM_GLOBAL_GRAPHICS_BRIGHTNESS = "97.000000"
 

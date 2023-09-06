@@ -1,0 +1,22 @@
+#reference "CyberLab_NES_Slot_Mask_Neo-GX_Bright.slangp"
+
+
+g_sat = "-0.110000"
+
+cust_fringing = "1.100000"
+cust_artifacting = "1.200000"
+
+ntsc_scale = "1.340000"
+
+brightboost = "1.300000"
+brightboost1 = "1.600000"
+
+
+
+
+
+
+
+
+
+

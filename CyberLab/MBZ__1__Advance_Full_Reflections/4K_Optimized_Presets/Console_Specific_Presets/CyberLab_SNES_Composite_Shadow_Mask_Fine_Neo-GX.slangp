@@ -1,0 +1,14 @@
+#reference "CyberLab_SNES_Composite_Shadow_Mask_Neo-GX.slangp"
+
+masksize = "2.000000"
+mshift = "-3.000000"
+
+
+
+HSM_DOWNSAMPLE_BLUR_SCANLINE_DIR = "0.000000"
+HSM_DOWNSAMPLE_BLUR_OPPOSITE_DIR = "0.000000"
+
+
+HSHARPNESS = "1.200000"
+S_SHARP = "1.300000"
+

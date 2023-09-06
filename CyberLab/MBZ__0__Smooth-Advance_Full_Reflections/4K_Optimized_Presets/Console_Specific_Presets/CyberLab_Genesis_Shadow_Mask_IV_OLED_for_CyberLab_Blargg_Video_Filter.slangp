@@ -1,0 +1,11 @@
+#reference "CyberLab_Genesis_Shadow_Mask_IV_OLED.slangp"
+
+GAMMA_INPUT = "2.400000"
+gamma_out = "2.400000"
+signalResolution = "752.000000"
+g_sat = "-0.040000"
+glow = "-0.040000"
+halation = "-0.125000"
+gamma_c = "1.175000"
+
+g_lum_fix = "1.000000"

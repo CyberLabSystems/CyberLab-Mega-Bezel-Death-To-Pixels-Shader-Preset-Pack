@@ -1,0 +1,15 @@
+#reference "CyberLab_SNES_Composite_Slot_Mask_Neo-GX.slangp"
+
+shadowMask = "10.000000"
+slotwidth = "4.000000"
+double_slot = "2.000000"
+
+
+
+HSM_DOWNSAMPLE_BLUR_SCANLINE_DIR = "0.000000"
+HSM_DOWNSAMPLE_BLUR_OPPOSITE_DIR = "0.000000"
+
+
+HSHARPNESS = "1.200000"
+S_SHARP = "1.300000"
+

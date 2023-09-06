@@ -1,0 +1,25 @@
+#reference "../../../Resources/CyberLab_Base_Presets/CyberLab_Arcade_Shadow_Mask_IV_OLED.slangp"
+
+SHARPEN = "0.000000"
+quality = "-1.000000"
+ntsc_phase = "3.000000"
+ntsc_scale = "0.970000"
+ntsc_fields = "0.000000"
+ntsc_sharp = "0.000000"
+blendMode = "1.000000"
+HSHARPNESS = "1.500000"
+S_SHARP = "0.900000"
+glow = "-0.040000"
+bloom = "-0.050000"
+halation = "-0.025000"
+mask_gamma = "1.550001"
+GDV_NOISE_ON = "1.000000"
+
+
+// HSM_INT_SCALE_MULTIPLE_OFFSET = "2.000000"
+
+
+
+
+
+

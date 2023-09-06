@@ -1,0 +1,6 @@
+#reference "CyberLab_PSX_Composite_CyberTron_Neo-GX.slangp"
+
+ntsc_scale = "1.720000"
+ntsc_sharp = "-5.500000"
+HSHARPNESS = "1.300000"
+S_SHARP = "1.200000"

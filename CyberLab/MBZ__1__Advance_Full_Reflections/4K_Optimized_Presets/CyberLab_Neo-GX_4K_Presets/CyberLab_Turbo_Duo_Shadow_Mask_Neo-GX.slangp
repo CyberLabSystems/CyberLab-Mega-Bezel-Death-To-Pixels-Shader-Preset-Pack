@@ -1,0 +1,19 @@
+#reference "CyberLab_SNES_Shadow_Mask_Neo-GX.slangp"
+
+
+gamma_c = "1.100000"
+brightboost1 = "1.350000"
+
+ntsc_phase = "2.000000"
+
+ntsc_scale = "1.800001"
+cust_artifacting = "1.000000"
+GDV_NOISE_ON = "1.000000"
+
+
+
+
+
+
+
+

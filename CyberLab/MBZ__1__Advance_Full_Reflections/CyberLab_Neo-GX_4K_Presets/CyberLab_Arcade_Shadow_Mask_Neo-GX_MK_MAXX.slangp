@@ -1,0 +1,5 @@
+#reference "CyberLab_Arcade_Slot_Mask_Neo-GX.slangp"
+
+
+HSM_INT_SCALE_MULTIPLE_OFFSET = "2.000000"
+HSM_BZL_INDEPENDENT_SCALE = "99.469749"

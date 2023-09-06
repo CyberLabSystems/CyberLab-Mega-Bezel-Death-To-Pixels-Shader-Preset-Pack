@@ -1,4 +1,4 @@
-#reference "../../../../../shaders/shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets_DREZ/MBZ__3__STD__GDV__DREZ-480p.slangp"
+#reference "../../../../../shaders/shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets_DREZ/CBL_MBZ__3__STD__GDV__DREZ-480p.slangp"
 
 
 wp_temperature = "6500.000000"

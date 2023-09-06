@@ -1,0 +1,4 @@
+#reference "CyberLab_Turbo_Duo_Slot_Mask_Neo-GX_B.slangp"
+
+cust_fringing = "1.100000"
+cust_artifacting = "1.200000"

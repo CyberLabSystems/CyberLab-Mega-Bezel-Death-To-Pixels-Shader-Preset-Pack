@@ -1,0 +1,11 @@
+#reference "CyberLab_SNES_Shadow_Mask_Neo-GX.slangp"
+
+g_crtgamut = "2.000000"
+g_sat = "-0.100000"
+
+
+gamma_c = "1.025000"
+
+
+post_br = "2.379998"
+

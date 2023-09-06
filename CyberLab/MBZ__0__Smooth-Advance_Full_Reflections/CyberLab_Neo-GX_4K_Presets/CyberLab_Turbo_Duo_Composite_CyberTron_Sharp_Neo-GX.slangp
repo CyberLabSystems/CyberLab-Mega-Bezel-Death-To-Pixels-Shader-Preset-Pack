@@ -1,0 +1,6 @@
+#reference "CyberLab_Turbo_Duo_Composite_CyberTron_Fine_Neo-GX.slangp"
+
+ntsc_scale = "2.260001"
+ntsc_sharp = "-5.500000"
+HSHARPNESS = "1.200000"
+S_SHARP = "1.300000"
