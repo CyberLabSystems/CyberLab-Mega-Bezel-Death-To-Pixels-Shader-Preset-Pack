@@ -1,11 +1,15 @@
 #reference "CyberLab_Turbo_Duo_Composite_Shadow_Mask_Fine_Neo-GX.slangp"
 
-HSM_DOWNSAMPLE_BLUR_SCANLINE_DIR = "0.000000"
+HSM_DOWNSAMPLE_BLUR_SCANLINE_DIR = "10.000000"
+HSM_DOWNSAMPLE_BLUR_OPPOSITE_DIR = "0.000000"
 g_crtgamut = "-2.000000"
 g_sat = "0.000000"
-ntsc_phase = "1.000000"
-ntsc_scale = "0.880000"
+ntsc_scale = "1.300000"
+ntsc_sharp = "-5.500000"
 HSHARPNESS = "1.300000"
 S_SHARP = "1.200000"
 masksize = "3.000000"
 mshift = "-4.500000"
+ntsc_phase = "1.000000"
+
+
