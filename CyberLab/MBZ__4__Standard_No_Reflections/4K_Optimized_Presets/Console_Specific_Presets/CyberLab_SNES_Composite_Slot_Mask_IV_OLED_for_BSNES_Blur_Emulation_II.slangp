@@ -1,0 +1,3 @@
+#reference "CyberLab_SNES_Composite_Slot_Mask_IV_OLED_for_BSNES_Blur_Emulation.slangp"
+SHARPEN = "0.000000"
+h_sharp = "5.200000"

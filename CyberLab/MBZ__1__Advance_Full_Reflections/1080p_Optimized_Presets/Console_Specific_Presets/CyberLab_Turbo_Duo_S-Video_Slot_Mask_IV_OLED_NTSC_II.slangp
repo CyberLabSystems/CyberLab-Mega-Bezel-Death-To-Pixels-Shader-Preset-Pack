@@ -1,0 +1,9 @@
+#reference "CyberLab_Turbo_Duo_Composite_Slot_Mask_IV_OLED_NTSC.slangp"
+
+SHARPEN = "0.000000"
+ntsc_sat = "1.360000"
+ntsc_scale = "1.799999"
+cust_fringing = "0.400000"
+cust_artifacting = "1.800000"
+HSHARPNESS = "1.550000"
+S_SHARP = "1.200000"

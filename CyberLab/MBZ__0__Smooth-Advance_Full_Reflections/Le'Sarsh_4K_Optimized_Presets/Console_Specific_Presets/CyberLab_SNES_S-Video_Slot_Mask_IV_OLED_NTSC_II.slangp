@@ -1,0 +1,8 @@
+#reference "CyberLab_SNES_Composite_Slot_Mask_IV_OLED_NTSC.slangp"
+
+SHARPEN = "0.000000"
+ntsc_phase = "3.000000"
+ntsc_scale = "2.500000"
+cust_artifacting = "0.300000"
+HSHARPNESS = "1.300000"
+S_SHARP = "1.300000"

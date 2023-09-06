@@ -17,7 +17,7 @@ scangamma = "2.160000"
 h_sharp = "12.300014"
 s_sharp = "1.000000"
 GDV_DECONVERGENCE_ON = "0.000000"
-decons = "0.300000"
+decons = "0.400000"
 
 HSM_SCALEFX_ON = "0.000000"
 
@@ -61,3 +61,6 @@ shadowMask = "6.000000"
 maskstr = "1.000000"
 
 noiseresd = "1.000000"
+
+mask_bloom = "0.000000"
+dcscalemode = "2.000000"

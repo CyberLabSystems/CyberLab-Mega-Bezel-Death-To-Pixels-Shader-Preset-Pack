@@ -1,0 +1,11 @@
+#reference "CyberLab__PSX_Composite__ADV.slangp"
+
+shadowMask = "10.000000"
+slotmask = "1.000000"
+slotmask1 = "1.000000"
+slotwidth = "4.000000"
+double_slot = "3.000000"
+
+SHARPSMOOTHER_ON = "1.000000"
+smoot = "0.230000"
+

@@ -52,10 +52,13 @@ masksize = "0.000000"
 
 
 GDV_DECONVERGENCE_ON = "0.000000"
-decons = "0.300000"
+decons = "0.400000"
 
 GDV_NOISE_ON = "1.000000"
 addnoised = "0.180000"
 noiseresd = "1.000000"
 
 noiseresd4kmult = "1.000000"
+
+mask_bloom = "0.000000"
+dcscalemode = "2.000000"

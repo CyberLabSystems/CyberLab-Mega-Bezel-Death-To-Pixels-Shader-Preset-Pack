@@ -63,3 +63,8 @@ HSM_INT_SCALE_MAX_HEIGHT = "11.500000"
 HSM_NON_INTEGER_SCALE = "66.400002"
 
 noiseresd4kmult = "1.000000"
+
+mask_bloom = "0.000000"
+dcscalemode = "2.000000"
+
+HSM_TUBE_DIFFUSE_MODE = "0.000000"

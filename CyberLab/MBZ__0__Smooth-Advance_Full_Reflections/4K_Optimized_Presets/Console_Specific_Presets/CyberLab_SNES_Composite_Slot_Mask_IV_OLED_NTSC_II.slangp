@@ -1,0 +1,22 @@
+#reference "CyberLab_SNES_S-Video_Slot_Mask_IV_OLED_NTSC_II.slangp"
+
+
+HSM_CORE_RES_SAMPLING_MULT_SCANLINE_DIR = "100.000000"
+HSM_DOWNSAMPLE_BLUR_SCANLINE_DIR = "23.000000"
+HSM_DOWNSAMPLE_BLUR_OPPOSITE_DIR = "16.000000"
+
+
+
+gamma_c = "1.175001"
+
+
+ntsc_sat = "1.110000"
+ntsc_scale = "1.350001"
+cust_fringing = "0.600000"
+cust_artifacting = "0.500000"
+S_SHARP = "1.300000"
+m_glow = "1.000000"
+glow = "-0.140000"
+bloom = "-0.150000"
+
+

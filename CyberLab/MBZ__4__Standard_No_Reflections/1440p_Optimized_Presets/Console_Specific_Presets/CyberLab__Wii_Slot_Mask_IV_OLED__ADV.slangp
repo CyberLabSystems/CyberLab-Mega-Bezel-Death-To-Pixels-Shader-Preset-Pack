@@ -1,0 +1,11 @@
+#reference "../../../MBZ__0__Smooth-Advance_No_Reflections/4K_Optimized_Presets/CyberLab__Ultimate_Virtual_Slot_Mask_CRT-1P2RTA__ADV.slangp"
+
+HSM_ASPECT_RATIO_MODE = "4.000000"
+HSM_INT_SCALE_MAX_HEIGHT = "100.000000"
+
+shadowMask = "10.000000"
+masksize = "1.000000"
+mask_layout = "0.000000"
+slotwidth = "4.000000"
+double_slot = "3.000000"
+slotms = "1.000000"

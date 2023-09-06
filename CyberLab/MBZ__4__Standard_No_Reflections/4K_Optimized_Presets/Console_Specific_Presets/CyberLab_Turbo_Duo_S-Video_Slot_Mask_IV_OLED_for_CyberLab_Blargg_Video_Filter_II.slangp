@@ -1,0 +1,4 @@
+#reference "CyberLab_Turbo_Duo_Composite_Slot_Mask_IV_OLED_for_CyberLab_Blargg_Video_Filter.slangp"
+SHARPEN = "0.400000"
+h_sharp = "5.200000"
+s_sharp = "0.800000"

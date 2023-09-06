@@ -10,7 +10,7 @@ wp_temperature = "6500.000000"
 GDV_DECONVERGENCE_ON = "0.000000"
 
 
-
+HSM_TUBE_DIFFUSE_MODE = "0.000000"
 g_sat = "0.020000"
 
 
@@ -31,7 +31,7 @@ halation = "0.000000"
 scan_falloff = "0.250000"
 
 
-g_crtgamut = "1.000000"
+g_crtgamut = "2.000000"
 
 
 scans = "0.000000"
@@ -71,3 +71,6 @@ HSM_REFLECT_CORNER_ROTATION_OFFSET_TOP = "-4.000000"
 HSM_REFLECT_CORNER_ROTATION_OFFSET_BOTTOM = "-4.000000"
 
 noiseresd4kmult = "1.000000"
+
+mask_bloom = "0.000000"
+dcscalemode = "2.000000"

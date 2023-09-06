@@ -1,0 +1,7 @@
+#reference "CyberLab_SNES_Shadow_Mask_Smooth_IV_OLED.slangp"
+
+HSM_DOWNSAMPLE_BLUR_SCANLINE_DIR = "23.000000"
+HSM_DOWNSAMPLE_BLUR_OPPOSITE_DIR = "16.000000"
+HSM_SCALEFX_ON = "0.000000"
+gamma_c = "1.000000"
+mshift = "-4.500000"

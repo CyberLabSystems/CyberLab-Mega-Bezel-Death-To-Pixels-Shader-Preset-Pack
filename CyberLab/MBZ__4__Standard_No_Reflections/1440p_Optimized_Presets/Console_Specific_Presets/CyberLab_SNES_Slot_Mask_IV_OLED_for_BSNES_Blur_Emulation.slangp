@@ -1,0 +1,5 @@
+#reference "CyberLab_SNES_Slot_Mask_IV_OLED_for_Higan_Blur_and_Colour_Emulation.slangp"
+
+gamma_c = "1.280001"
+h_sharp = "10.700007"
+signalResolution = "624.000000"

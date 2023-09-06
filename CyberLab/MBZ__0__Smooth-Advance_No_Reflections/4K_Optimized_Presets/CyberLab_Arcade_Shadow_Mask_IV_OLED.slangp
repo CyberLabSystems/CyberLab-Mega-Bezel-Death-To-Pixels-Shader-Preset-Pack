@@ -1,0 +1,10 @@
+#reference "CyberLab_Shadow_Mask_IV_OLED.slangp"
+
+g_sat = "0.110000"
+gamma_c = "0.900000"
+
+
+
+
+
+

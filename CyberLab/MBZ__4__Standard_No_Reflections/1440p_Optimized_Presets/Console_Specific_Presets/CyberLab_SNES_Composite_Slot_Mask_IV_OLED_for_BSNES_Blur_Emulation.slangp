@@ -1,0 +1,10 @@
+#reference "CyberLab_SNES_Slot_Mask_IV_OLED_for_BSNES_Blur_Emulation.slangp"
+
+signalResolution = "464.000000"
+signalResolutionI = "83.000000"
+signalResolutionQ = "151.000000"
+g_sat = "0.200000"
+gamma_c = "1.280000"
+h_sharp = "11.000009"
+
+HSM_CROP_PERCENT_BOTTOM = "1.400000"

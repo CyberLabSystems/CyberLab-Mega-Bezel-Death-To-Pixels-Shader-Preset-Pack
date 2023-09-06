@@ -111,3 +111,11 @@ scanline2 = "9.000000"
 beam_min = "1.400000"
 beam_max = "1.400000"
 maskstr = "0.500000"
+
+
+noiseresd4kmult = "1.000000"
+
+mask_bloom = "0.000000"
+dcscalemode = "2.000000"
+
+HSM_TUBE_DIFFUSE_MODE = "0.000000"

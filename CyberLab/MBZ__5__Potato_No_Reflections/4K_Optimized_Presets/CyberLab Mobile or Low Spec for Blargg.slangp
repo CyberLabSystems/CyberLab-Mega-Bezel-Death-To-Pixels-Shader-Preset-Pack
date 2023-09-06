@@ -107,3 +107,6 @@ addnoised = "0.180000"
 noiseresd = "1.000000"
 
 noiseresd4kmult = "1.000000"
+
+mask_bloom = "0.000000"
+dcscalemode = "2.000000"
