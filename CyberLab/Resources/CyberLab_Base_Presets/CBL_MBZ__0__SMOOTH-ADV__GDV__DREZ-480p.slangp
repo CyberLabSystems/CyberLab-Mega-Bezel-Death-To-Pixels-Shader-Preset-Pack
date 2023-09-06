@@ -1,0 +1,9 @@
+#reference "../../../../../shaders/shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets_DREZ/MBZ__0__SMOOTH-ADV__GDV__DREZ-480p.slangp"
+
+
+HSM_DREZ_HSHARP0 = "1.100000"
+HSM_DREZ_SIGMA_HV = "0.350000"
+SGPT_BLEND_OPTION = "0.000000"
+HSM_SCALEFX_ON = "0.000000"
+mask_bloom = "0.000000"
+dcscalemode = "2.000000"
