@@ -1,0 +1,4 @@
+#reference "CyberLab_Turbo_Duo_Shadow_Mask_IV_OLED_II.slangp"
+
+HSM_CROP_PERCENT_LEFT = "0.500000"
+HSM_CROP_PERCENT_RIGHT = "0.300000"

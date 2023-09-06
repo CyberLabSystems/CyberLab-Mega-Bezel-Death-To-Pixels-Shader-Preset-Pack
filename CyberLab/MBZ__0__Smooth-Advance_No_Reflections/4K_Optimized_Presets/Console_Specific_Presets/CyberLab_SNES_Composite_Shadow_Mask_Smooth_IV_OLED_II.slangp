@@ -1,0 +1,3 @@
+#reference "CyberLab_SNES_Composite_Shadow_Mask_Smooth_IV_OLED.slangp"
+signalResolutionI = "105.000000"
+g_sat = "0.230000"

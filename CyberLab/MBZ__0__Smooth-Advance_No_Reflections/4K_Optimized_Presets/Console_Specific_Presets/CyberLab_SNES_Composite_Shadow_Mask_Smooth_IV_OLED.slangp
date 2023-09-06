@@ -1,0 +1,6 @@
+#reference "CyberLab_SNES_Shadow_Mask_IV_OLED_II.slangp"
+SHARPSMOOTHER_ON = "1.000000"
+HSM_SCALEFX_ON = "1.000000"
+signalResolutionI = "83.000000"
+signalResolutionQ = "151.000000"
+g_sat = "0.270000"
