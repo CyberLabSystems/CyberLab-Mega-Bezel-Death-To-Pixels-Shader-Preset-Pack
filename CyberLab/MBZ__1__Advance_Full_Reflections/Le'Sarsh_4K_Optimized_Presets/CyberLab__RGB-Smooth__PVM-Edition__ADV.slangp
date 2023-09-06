@@ -1,4 +1,4 @@
-#reference "../../../../../shaders/shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__0__SMOOTH-ADV__GDV.slangp"
+#reference "../../../../../shaders/shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__1__ADV__GDV.slangp"
 
 HSM_INTRO_WHEN_TO_SHOW = "1.000000"
 
@@ -85,3 +85,5 @@ spike = "2.000000"
 
 
 addnoised = "0.000000"
+
+noiseresd4kmult = "1.000000"

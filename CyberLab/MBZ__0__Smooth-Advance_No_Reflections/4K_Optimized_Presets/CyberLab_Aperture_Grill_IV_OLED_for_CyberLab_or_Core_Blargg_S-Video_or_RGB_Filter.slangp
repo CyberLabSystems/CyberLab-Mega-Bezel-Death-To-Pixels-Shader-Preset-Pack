@@ -1,0 +1,4 @@
+#reference "CyberLab__Ultimate_Virtual_Slot_Mask_IV_OLED_CRT-1P2RTA_for_CyberLab_or_Core_Blargg_Composite_or_S-Video_Filter.slangp"
+slotmask = "0.000000"
+slotmask1 = "0.000000"
+GDV_DECONVERGENCE_ON = "0.000000"

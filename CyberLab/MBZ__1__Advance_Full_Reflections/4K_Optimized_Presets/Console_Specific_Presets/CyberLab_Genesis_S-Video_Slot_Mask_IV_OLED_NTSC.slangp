@@ -1,0 +1,4 @@
+#reference "CyberLab_Turbo_Duo_Composite_Slot_Mask_IV_OLED_NTSC.slangp"
+ntsc_scale = "0.333333"
+ntsc_fields = "1.000000"
+blendMode = "1.000000"

@@ -1,0 +1,5 @@
+#reference "CyberLab_Turbo_Duo_Composite_Slot_Mask_IV_OLED_NTSC.slangp"
+
+g_sat = "0.000000"
+ntsc_sat = "1.360000"
+gamma_c = "1.299999"

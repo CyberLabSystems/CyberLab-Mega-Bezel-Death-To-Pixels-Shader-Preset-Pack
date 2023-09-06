@@ -1,0 +1,4 @@
+#reference "CyberLab_PSX_Composite_Slot_Mask_IV_OLED_NTSC.slangp"
+
+ntsc_scale = "0.940000"
+

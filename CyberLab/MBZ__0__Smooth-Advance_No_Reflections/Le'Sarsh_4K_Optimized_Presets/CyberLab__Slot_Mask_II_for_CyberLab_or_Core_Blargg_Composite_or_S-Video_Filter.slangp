@@ -1,0 +1,18 @@
+#reference "CyberLab__Ultimate_Virtual_Slot_Mask_CRT-1P2RTA__ADV.slangp"
+
+scangamma = "0.960000"
+double_slot = "1.000000"
+
+GAMMA_INPUT = "2.100000"
+post_br = "2.399999"
+signalResolution = "1024.000000"
+h_sharp = "15.000000"
+s_sharp = "1.500000"
+
+HSM_CROP_PERCENT_LEFT = "0.500000"
+HSM_CROP_PERCENT_RIGHT = "0.300000"
+
+HSM_SCALEFX_ON = "0.000000"
+gamma_c = "1.200000"
+
+SHARPEN = "1.000000"

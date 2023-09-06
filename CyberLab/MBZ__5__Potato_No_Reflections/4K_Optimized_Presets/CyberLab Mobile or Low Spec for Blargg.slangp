@@ -100,8 +100,10 @@ HSM_INT_SCALE_MODE = "1.000000"
 HSM_CURVATURE_MODE = "0.000000"
 
 
-decons = "0.200000"
+decons = "0.300000"
 
 GDV_NOISE_ON = "1.000000"
 addnoised = "0.180000"
 noiseresd = "1.000000"
+
+noiseresd4kmult = "1.000000"

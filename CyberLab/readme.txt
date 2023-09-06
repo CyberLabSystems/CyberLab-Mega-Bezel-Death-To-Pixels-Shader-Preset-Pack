@@ -1,10 +1,52 @@
+**Update 05-12-22**
+
+
+The following preset folders have been renamed:
+
+
+MBZ__1__Advance_Full_Reflections ===> MBZ__0__Smooth-Advance_Full_Reflections
+
+
+MBZ__2__Performance_No_Reflections ===> MBZ__0__Smooth-Advance_No_Reflections
+
+
+MBZ__3__Standard_Full_Reflections ===> MBZ__3__Standard_Full_Reflections_Soqueroeu-TV_Special_Edition
+
+
+This is to make way for the following additional performance tiers as well as to update the folder naming to be more in line with HSM Mega Bezel Reflection Shader's Base Preset Tiered naming scheme.
+
+
+MBZ__1__Advance_Full_Reflections
+
+
+MBZ__3__Standard_Full_Reflections
+
+
+What this means is that more users who might have had difficulty running my highest quality presets or even the no reflect versions can now enjoy my work by trying the presets in the MBZ__1__Advance_Full_Reflections or MBZ__3__Standard_Full_Reflections folders with in many cases only minor differences in the final appearance of most presets, especially when paired with my Custom Blargg Video Filter Presets.
+
+
+I apologize for any inconvenience that these major changes might cause some users but I hope that the benefits to new and existing users will be worth it.
+
+
+**Pro Tip**
+
+To make the transition easier you can use an app like Notepad++ that has a batch find and replace feature then Search for "CyberLab/MBZ__1__Advance_Full_Reflections" in the "...RetroArch\config" folder and replace it with "CyberLab/MBZ__0__Smooth-Advance_Full_Reflections".
+
+
+If you have any of my Soqueroeu-TV_Special_Edition presets saved as core, game or directory presets you can search for "CyberLab\MBZ__3__Standard_Full_Reflections" and replace it with "CyberLab\MBZ__3__Standard_Full_Reflections_Soqueroeu-TV_Special_Edition".
+
+
+
+Old recommendations which need updating follow:
+
+
 Try the presets in the MBZ__1__Advance_Full_Reflections folder first.
 
 If you're system can't handle them, you can lower your desktop resolution and try the optimized presets for that resolution. 
 
-If they're still not running well enough or if you prefer to stick to your native resolution then try the presets in the MBZ__2__Performance_No_Reflections folder.
+If they're still not running well enough or if you prefer to stick to your native resolution then try the presets in the MBZ__0__Smooth-Advance_No_Reflections folder.
 
-You can also use a lower desktop resolution and the optimized presets for that resolution from the MBZ__2__Performance_No_Reflections folder for maximum performance.
+You can also use a lower desktop resolution and the optimized presets for that resolution from the MBZ__0__Smooth-Advance_No_Reflections folder for maximum performance.
 
 
 These presets require the HSM Mega Bezel Reflection Shader in order to work.
@@ -12,6 +54,8 @@ It can be downloaded at the following location.
 
 https://forums.libretro.com/t/hsm-mega-bezel-reflection-shader-feedback-and-updates/25512?u=cyber
 
+
+This is a very old readme file. For the latest tips and recommendations please read the first post in my Libretro Thread as well as browse the thread for more recentt example screeshots of shader presets and video filter combinations that I actually use.
 
 
 

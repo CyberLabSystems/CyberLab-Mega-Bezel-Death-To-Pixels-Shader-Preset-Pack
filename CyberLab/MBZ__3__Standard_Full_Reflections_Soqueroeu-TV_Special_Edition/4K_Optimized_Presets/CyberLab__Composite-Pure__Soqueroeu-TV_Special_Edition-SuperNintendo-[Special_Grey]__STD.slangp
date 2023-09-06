@@ -1,0 +1,73 @@
+#reference "../../../../Mega_Bezel_Packs/Soqueroeu-TV-Backgrounds_V2.0/presets/TV-Console/Nintendo_SuperNintendo-[Special_Grey].slangp"
+
+scangamma = "6.000000"
+
+g_hue_degrees = "-7.000000"
+wp_temperature = "6500.000000"
+
+
+
+GDV_DECONVERGENCE_ON = "0.000000"
+
+
+
+g_sat = "0.020000"
+
+
+
+post_br = "1.310000"
+
+h_sharp = "5.200000"
+
+GAMMA_INPUT = "2.100000"
+gamma_out = "2.500000"
+
+
+bloom = "0.150000"
+halation = "0.000000"
+
+
+
+scan_falloff = "0.250000"
+
+
+g_crtgamut = "1.000000"
+
+
+scans = "0.000000"
+GDV_NOISE_ON = "1.000000"
+
+glow = "0.000000"
+
+masksize = "2.000000"
+
+
+
+gsl = "2.000000"
+scanline1 = "9.000000"
+scanline2 = "9.000000"
+beam_min = "1.350000"
+beam_max = "1.300000"
+
+shadowMask = "6.000000"
+maskstr = "1.000000"
+
+
+addnoised = "0.180000"
+noiseresd = "1.000000"
+
+
+HSM_NON_INTEGER_SCALE = "61.570278"
+HSM_CURVATURE_2D_SCALE_LONG_AXIS = "10.000000"
+HSM_CURVATURE_2D_SCALE_SHORT_AXIS = "5.000000"
+HSM_BZL_USE_INDEPENDENT_SCALE = "1.000000"
+HSM_INT_SCALE_MODE = "1.000000"
+HSM_INT_SCALE_MULTIPLE_OFFSET = "-2.000000"
+HSM_BZL_INDEPENDENT_SCALE = "61.470329"
+HSM_BZL_USE_INDEPENDENT_CURVATURE = "1.000000"
+
+
+HSM_REFLECT_CORNER_ROTATION_OFFSET_TOP = "-3.000000"
+HSM_REFLECT_CORNER_ROTATION_OFFSET_BOTTOM = "-4.000000"
+
+noiseresd4kmult = "1.000000"

@@ -1,0 +1,3 @@
+#reference "CyberLab_Turbo_Duo_Composite_Slot_Mask_IV_OLED_NTSC.slangp"
+
+ntsc_scale = "0.940000"

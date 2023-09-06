@@ -1,0 +1,5 @@
+#reference "CyberLab_SNES_Composite_Slot_Mask_IV_OLED_NTSC.slangp"
+
+cust_artifacting = "0.000000"
+HSHARPNESS = "1.400000"
+S_SHARP = "1.200000"
