@@ -5,15 +5,11 @@ gamma_out = "2.450000"
 
 post_br = "1.500000"
 
-HSM_CROP_PERCENT_LEFT = "0.500000"
-HSM_CROP_PERCENT_RIGHT = "0.300000"
+
 
 glow = "0.010000"
 
-h_sharp = "12.000012"
-s_sharp = "1.200000"
-
-
+g_sat = "0.100000"
 
 shadowMask = "12.000000"
 masksize = "1.000000"
@@ -24,8 +20,8 @@ slotms = "1.000000"
 HSM_GLOBAL_GRAPHICS_BRIGHTNESS = "90.000000"
 HSM_STATIC_LAYERS_GAMMA = "0.970000"
 HSM_SCALEFX_ON = "1.000000"
-signalResolution = "640.000000"
+signalResolution = "688.000000"
 SHARPEN = "0.800000"
-gamma_c = "1.380000"
+gamma_c = "1.140000"
 gsl = "2.000000"
 double_slot = "3.000000"

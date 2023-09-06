@@ -14,7 +14,7 @@ addnoised = "0.180000"
 
 
 GTU_ON = "0.000000"
-MDAPT_MODE = "0.000000"
+HSM_DEDITHER_MODE = "0.000000"
 wp_temperature = "6500.000000"
 
 

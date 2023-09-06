@@ -5,7 +5,7 @@ gamma_out = "2.450000"
 post_br = "1.230000"
 g_crtgamut = "0.000000"
 
-MDAPT_MODE = "0.000000"
+HSM_DEDITHER_MODE = "0.000000"
 
 g_sat = "0.040000"
 gamma_c = "1.000000"
